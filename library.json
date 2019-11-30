@@ -5,5 +5,10 @@
     "description": "An ESP32 lib to communicate with InfiniSolar inverters that use the P18 protocol",
     "authors": {
         "name": "Vaibhav Patel"
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/vaipatel/InfiniSolarP18.git"
     }
 }
