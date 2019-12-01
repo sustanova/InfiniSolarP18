@@ -1,6 +1,10 @@
 # InfiniSolarP18
 
-An ESP32/Arduino library for sending and receiving messages from InfiniSolar inverters that implement the RS232 protocol version P18.
+This project provides a library to communicate with InfiniSolar inverters that implement the RS232 protocol version P18.
+
+The aim is to be able to send queries and commands to InfiniSolar inverters from an ESP32 or an Arduino, via an RS232 Serial communication cable.
+
+You will typically need an RS232 to TTL converter between the Serial cable and your microprocessor to appropriately flip/scale the voltages.
 
 ## Library limitations
 
