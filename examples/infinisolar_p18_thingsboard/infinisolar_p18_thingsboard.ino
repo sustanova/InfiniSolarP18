@@ -1,6 +1,6 @@
 #include <WiFi.h>           // WiFi control for ESP32
 #include <ThingsBoard.h>    // ThingsBoard SDK
-#include "infinisolar_p18_esp32_monitor_defs.h" // Defs for various secrets, keys
+#include "infinisolar_p18_thingsboard.h" // Defs for various secrets, keys
 #include "InfiniCommandSender.h"
 #include "InfiniResponseParser.h"
 
