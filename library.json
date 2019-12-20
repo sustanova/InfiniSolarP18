@@ -1,6 +1,6 @@
 {
     "name": "InfiniSolarP18",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "keywords": "solar, inverter, monitoring, communication, device control",
     "description": "An ESP32 lib to communicate with InfiniSolar inverters that use the P18 protocol",
     "authors": {
