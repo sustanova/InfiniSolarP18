@@ -2,7 +2,6 @@
 #define INFINI_MESSAGE_TYPES_H
 
 #include "InfiniCommon.h"
-#include <cstdio>
 #include <cstring>
 
 namespace INFI {
